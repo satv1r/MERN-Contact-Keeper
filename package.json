@@ -4,7 +4,8 @@
   "description": "A React MERN application designed to keep track of user's contacts. Built in Brad Traversy's course React Front to Back",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "server": "nodemon server.js"
   },
   "keywords": [],
   "author": "",

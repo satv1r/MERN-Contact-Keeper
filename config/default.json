@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Satvir:sandhu87@contact-keeper-hsdi0.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Satvir:sandhu87@contact-keeper-hsdi0.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "Elephant"
 }
